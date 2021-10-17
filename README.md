@@ -19,8 +19,8 @@
 
 ## Connect with me
 
-[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](www.linkedin.com/in/piyush-git)
-[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />]()
+[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/piyush-ranjan-24aa73207/)
+[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/piyush___ranjan/)
 [<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />]()
 
 ## Languages and Tools
