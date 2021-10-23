@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Goibibo clone.
  
-- - 👨‍💻 portfolio [@bPiyush-ranjan](https://piyush425-b30qf2xet-piyush425.vercel.app/)
+- 👨‍💻 portfolio [@Piyush-ranjan](https://piyush425-b30qf2xet-piyush425.vercel.app/)
 
 - 🌱 I’m currently learning Data Structures and Alogorithms.
 
