@@ -21,9 +21,14 @@
 
 ## Connect with me
 
-[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/piyush-ranjan-24aa73207/)
-[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/piyush___ranjan/)
-[<img height="65px" style="padding:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />]()
+[<img height="65px" align="left" width="65px" style="padding:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/piyush-ranjan-24aa73207/)
+[<img height="65px" align="left" width="65px"  style="padding:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/piyush___ranjan/)
+[<img height="65px" width="65px" align="left" style="padding:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />]()
+
+<br />
+<br />
+<br />
+<br />
 
 ## Languages and Tools
 
